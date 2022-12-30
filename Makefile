@@ -21,4 +21,4 @@ clean:
 
 .PHONY: clean-pdf
 clean-pdf:
-	rm -rf build/pdf
+	rm -f build/pdf/*.pdf
